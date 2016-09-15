@@ -36,7 +36,7 @@
 		<p><img class="img-circle" src='images/photo.jpg' alt='Dan Runt'></p>
 	</div>
 
-	<div class="container-fluid bg-2 text container">
+	<div class="container-fluid bg-3 text container">
 		<div class="row">
 			<div class="col-md-4">
 				<a href="http:\\p2.danrunt.me\" class="btn btn-primary btn-lg" role="button">Project 2</a>
